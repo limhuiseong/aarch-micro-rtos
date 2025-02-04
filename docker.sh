@@ -1,0 +1,1 @@
+docker run -v $(pwd):/workspace -it aarch-micro-rtos
